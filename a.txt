@@ -1,0 +1,27 @@
+meu_projeto/
+│
+├── css/
+│   ├── bootstrap.css
+│   ├── font-awesome.min.css
+│   ├── responsive.css
+│   ├── style.css
+│   ├── style.css.map
+│   └── style.scss
+│
+├── font/
+│   ├── fontawesome-webfont.ttf
+│   ├── fontawesome-webfont.woff
+│   └── fontawesome-webfont.woff2
+│
+├── images/
+│
+├── config/
+│   ├── bootstrap.js
+│   ├── custom.js
+│   └── jquery-3.4.1.min.js
+│
+└── about.html
+└── index.html
+└── service.html
+└── team.html
+└── why.html
